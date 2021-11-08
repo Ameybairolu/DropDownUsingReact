@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.1802dbbf.chunk.css",
-    "main.js": "/static/js/main.6063296a.chunk.js",
-    "main.js.map": "/static/js/main.6063296a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.05998acb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.05998acb.js.map",
-    "static/js/2.7631238b.chunk.js": "/static/js/2.7631238b.chunk.js",
-    "static/js/2.7631238b.chunk.js.map": "/static/js/2.7631238b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.1802dbbf.chunk.css.map": "/static/css/main.1802dbbf.chunk.css.map",
-    "static/js/2.7631238b.chunk.js.LICENSE.txt": "/static/js/2.7631238b.chunk.js.LICENSE.txt"
+    "main.css": "/DropDownUsingReact/static/css/main.1802dbbf.chunk.css",
+    "main.js": "/DropDownUsingReact/static/js/main.6063296a.chunk.js",
+    "main.js.map": "/DropDownUsingReact/static/js/main.6063296a.chunk.js.map",
+    "runtime-main.js": "/DropDownUsingReact/static/js/runtime-main.df5e70c4.js",
+    "runtime-main.js.map": "/DropDownUsingReact/static/js/runtime-main.df5e70c4.js.map",
+    "static/js/2.7631238b.chunk.js": "/DropDownUsingReact/static/js/2.7631238b.chunk.js",
+    "static/js/2.7631238b.chunk.js.map": "/DropDownUsingReact/static/js/2.7631238b.chunk.js.map",
+    "index.html": "/DropDownUsingReact/index.html",
+    "static/css/main.1802dbbf.chunk.css.map": "/DropDownUsingReact/static/css/main.1802dbbf.chunk.css.map",
+    "static/js/2.7631238b.chunk.js.LICENSE.txt": "/DropDownUsingReact/static/js/2.7631238b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.05998acb.js",
+    "static/js/runtime-main.df5e70c4.js",
     "static/js/2.7631238b.chunk.js",
     "static/css/main.1802dbbf.chunk.css",
     "static/js/main.6063296a.chunk.js"
